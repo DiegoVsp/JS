@@ -15,3 +15,6 @@ const incremento4 = n => n + 1
 console.log(incremento2(2))
 console.log(incremento3(3))
 console.log(incremento4(4))
+
+const sum = (a,b)=> a+b
+console.log(sum(2,4))
