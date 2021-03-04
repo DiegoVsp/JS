@@ -63,4 +63,4 @@ function range2(a, b, c = 1) {
   }
   return nums
 }
-console.log(range2(8, -3, 4))
+console.log(range2(8, -3,4))
